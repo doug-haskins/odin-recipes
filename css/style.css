@@ -139,6 +139,17 @@ nav .wrapper{
   top: 10px;
 }
 
+h1 {
+  position: relative;
+  top: 70px;
+  line-height: 35px;
+}
+
+img {
+  position: relative;
+  top: 80px;
+}
+
 @media screen and (max-width: 970px) {
   .wrapper .btn{
     display: block;
